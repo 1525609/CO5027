@@ -43,6 +43,34 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=2.0.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
       <Private>True</Private>
@@ -67,6 +95,25 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Golf.Master" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="images\bg-image.psd" />
+    <Content Include="images\logo.psd" />
+    <Content Include="images\slide1.psd" />
+    <Content Include="js\golf.link" />
+    <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.1.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,17 +122,104 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Contact.aspx" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\flexslider.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\login.css" />
+    <Content Include="css\templatemo_misc.css" />
+    <Content Include="css\templatemo_style.css" />
+    <Content Include="css\testimonails-slider.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
+    <Content Include="images\bag.jpg" />
+    <Content Include="images\bg-image.jpg" />
+    <Content Include="images\callaway.jpg" />
+    <Content Include="images\Celebrity-athletes.jpg" />
+    <Content Include="images\div-line.png" />
+    <Content Include="images\driver_2.jpg" />
+    <Content Include="images\golf-cap.1.jpg" />
+    <Content Include="images\golf-cap.2.jpg" />
+    <Content Include="images\golf-cap.3.jpg" />
+    <Content Include="images\golf-cap.4.jpg" />
+    <Content Include="images\golf-club.1.jpg" />
+    <Content Include="images\golf-club.2.jpg" />
+    <Content Include="images\golf-club.3.JPG" />
+    <Content Include="images\golf-club.4.jpg" />
+    <Content Include="images\golf-club.5.jpg" />
+    <Content Include="images\golf-club.6.jpg" />
+    <Content Include="images\golf-pants.2.jpg" />
+    <Content Include="images\golf-pants.3.jpg" />
+    <Content Include="images\golf-pants.4.jpg" />
+    <Content Include="images\golf-pants.5.jpg" />
+    <Content Include="images\golf-shoes.1.JPG" />
+    <Content Include="images\golf-shoes.2.jpg" />
+    <Content Include="images\golf-shoes.3.jpg" />
+    <Content Include="images\golf-shoes.4.jpg" />
+    <Content Include="images\golf-shoes.5.jpg" />
+    <Content Include="images\golf.equp.1.jpg" />
+    <Content Include="images\golf_pants.1.jpg" />
+    <Content Include="images\Golf_shirt_1.jpg" />
+    <Content Include="images\Golf_shirt_2.jpg" />
+    <Content Include="images\Golf_shirt_3.jpg" />
+    <Content Include="images\Golf_shirt_4.jpeg" />
+    <Content Include="images\Golf_shirt_5.jpg" />
+    <Content Include="images\Golf_shirt_6.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\mizuno.jpg" />
+    <Content Include="images\mizuno_driver.jpg" />
+    <Content Include="images\new_club.jpg" />
+    <Content Include="images\open-icon.png" />
+    <Content Include="images\recent-post3.jpg" />
+    <Content Include="images\search-icon.png" />
+    <Content Include="images\shoes.jpg" />
+    <Content Include="images\slide1.jpg" />
+    <Content Include="images\slide2.jpg" />
+    <Content Include="images\slide3.jpg" />
+    <Content Include="images\srixion.jpg" />
+    <Content Include="images\subscribe-icon.png" />
+    <Content Include="images\titleist_fairway.jpg" />
+    <Content Include="images\titliest_bag.jpg" />
+    <Content Include="images\titliest_ball.jpg" />
+    <Content Include="images\titliest_cap.jpg" />
+    <Content Include="images\titliest_driver.jpg" />
+    <Content Include="images\under-heading.png" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\plugins.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Golf.Master.cs">
+      <DependentUpon>Golf.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Golf.Master.designer.cs">
+      <DependentUpon>Golf.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="js\vendor\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

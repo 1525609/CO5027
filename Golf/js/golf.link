@@ -1,0 +1,823 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" type="text/css" href="/encyclopedia.axd/globalcss/10.aspx/"/>
+    <link rel="stylesheet" type="text/css" href="/encyclopedia.axd/mastercss/10.aspx/"/>
+   
+    
+    <link rel="stylesheet" type="text/css" href="/encyclopedia.axd/topicpagecss/10.aspx/"/>
+
+    
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+    <script src="http://ajax.microsoft.com/ajax/4.0/1/MicrosoftAjax.js" type="text/javascript"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'/>
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+    <script type="text/javascript" src="/encyclopedia.axd/responsiveglobaljs/10.aspx/"></script>
+    
+    <script type="text/javascript" src="/encyclopedia.axd/contentpagejs/10.aspx/"></script>
+    <script type="text/javascript" src="/encyclopedia.axd/topicpagejs/10.aspx/"></script>
+    <script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.pubads().set("adsense_background_color", "FFFFFF");
+  });
+</script>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+ var mapping1 = googletag.sizeMapping().
+ addSize([0, 0], []). // Desktop
+ addSize([768, 0], [728, 90]). // wide ads
+ build();
+ var mapping2 = googletag.sizeMapping().
+ addSize([0, 0], []).
+ addSize([930, 0], [300, 250]).  // Sqaure ads
+ build();
+ var mapping3 = googletag.sizeMapping().
+ addSize([0, 0], []).
+ addSize([700, 0], [160, 600]).  // tall ads
+ build();
+     googletag.defineSlot("/1005602/enc_topic_300x250_left_top", [300,250], "div-id-6017")
+  .defineSizeMapping(mapping2)
+      .setCollapseEmptyDiv(true)
+      .addService(googletag.pubads())
+      .set("adsense_channel_ids", "1000000002")
+      .setTargeting("cat", "topic_3049")
+      .setTargeting("pub", "default")
+      .setTargeting("page", "topic")
+      .setTargeting("pos", "l1")
+      .setTargeting("sz", '300x250')
+      .setTargeting("tile", "1")
+      .setTargeting("ord", "1983487455");
+     googletag.defineSlot("/1005602/enc_topic_728x90_bottom", [728,90], "div-id-6018")
+  .defineSizeMapping(mapping1)
+      .setCollapseEmptyDiv(true)
+      .addService(googletag.pubads())
+      .set("adsense_channel_ids", "1000000004")
+      .setTargeting("cat", "topic_3049")
+      .setTargeting("pub", "default")
+      .setTargeting("page", "topic")
+      .setTargeting("pos", "b1")
+      .setTargeting("sz", '728x90')
+      .setTargeting("tile", "2")
+      .setTargeting("ord", "1983487455");
+     googletag.defineSlot("/1005602/enc_popunder_1x1", [1,1], "div-id-6005")
+      .setCollapseEmptyDiv(true)
+      .addService(googletag.pubads())
+      .set("adsense_channel_ids", "")
+      .setTargeting("cat", "topic_3049")
+      .setTargeting("pub", "default")
+      .setTargeting("page", "topic")
+      .setTargeting("pos", "popup")
+      .setTargeting("sz", '1x1')
+      .setTargeting("tile", "3")
+      .setTargeting("ord", "1983487455");
+    googletag.enableServices();
+  });
+</script>
+
+    
+
+    <script type="text/javascript">
+        /*<![CDATA[*//*---->*/
+        var _reportClientErrors = false;
+        /*--*//*]]>*/
+    </script>
+
+    
+
+    <script type="text/javascript">
+        /*<![CDATA[*//*---->*/
+        breakIFrame();
+        /*--*//*]]>*/
+    </script>
+
+    
+    <title>golf Facts, information, pictures | Encyclopedia.com articles about golf</title>
+    
+<meta name="keywords" content="Get, information, facts, and, pictures, golf, Encyclopedia, Make, research, projects, and, school, reports, golf, easy, credible, articles, our, FREE, online, encyclopedia, and, dictionary" />
+
+<meta name="description" content="Get information, facts, and pictures about golf at Encyclopedia.com. Make research projects and school reports about  golf easy with credible articles from our FREE, online encyclopedia and dictionary." />
+
+<link rel="canonical" href="http://www.encyclopedia.com/topic/golf.aspx" />
+
+<meta name="google-site-verification" content="xClNiwhy5PgyNH9MGUY_MLJybLaaq8VbD-XLfFbFsHI" />
+
+    <link rel="alternate" type="application/rss+xml" title='Encyclopedia.com Trending Topics'
+        href="http://www.encyclopedia.com/feeds/trending.xml" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+</head>
+<body onload="autofitIframe('ifr');">
+    
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNC4D8" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KNC4D8');
+    </script>
+    <!-- End Google Tag Manager -->
+
+   
+
+    <div id="header">
+        
+           
+<header>
+    <div class="container clearfix">
+        <div id="logo">
+            <a id="imagelink"  rel="follow" href="/" onclick="OmnitureClick('BetaHome');">
+                <img alt="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" src="http://images.encyclopedia.com/img/logos/header-logo.jpg?20100610" title="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" />
+            </a>
+        </div>
+
+        <div class="hdr-r clearfix">
+            <form action="/searchresults.aspx" method="post">
+    <span  id="headersearch_divsearchbox">
+    <input autocomplete="off" class="searchbox" id="headersearch_searchbox" name="searchterm" placeholder="Search" type="search" value="" />   
+    <i class="fa fa-search clickable" onclick="$('#headersearch_ButtonFindTopic').click()"></i>
+    <input id="headersearch_ButtonFindTopic" class="search-btn" type="submit" name="ButtonFindTopic" value="" style="display: none;" />
+</span>
+</form>
+                <a class="mobile-search-icon" onclick="toggleSearch(); $('#headersearch_searchbox').focus();"><i class="fa fa-search"></i></a>
+            
+            <div class="hdr-categories-container">
+                <a onclick="toggleFlyout()" class="rc-link" id="rcLink">
+                    <span class="text">Research categories</span>
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div id="rcFlyout" class="rc-flyout">
+                    <i class="fa fa-close" onclick="closeOverlays();"></i>
+                    <div class="categories">
+                        <span class="title">RESEARCH CATEGORIES</span>
+                         <ul>
+                            <li><a href="/c/2979-earth-and-environment.html">Earth and the Environment</a></li>
+                            <li><a href="/c/2986-history.html">History</a></li>
+                            <li><a href="/c/2981-literature-and-arts.html">Literature and the Arts</a></li>
+                            <li><a href="/c/2978-medicine.html">Medicine</a></li>
+                            <li><a href="/c/2984-people.html">People</a></li>
+                            <li><a href="/c/2982-philosophy-and-religion.html">Philosophy and Religion</a></li>                                   
+                            <li><a href="/c/2987-places.html">Places</a></li>
+                            <li><a href="/c/2983-plants-and-animals.html">Plants and Animals</a></li>
+                            <li><a href="/c/2977-science-and-technology.html">Science and Technology</a></li>
+                            <li><a href="/c/2980-social-sciences-and-law.html">Social Sciences and the Law</a></li>
+                            <li><a href="/c/2985-sports-and-everyday-life.html">Sports and Everyday Life</a></li>
+                        </ul>
+                    </div>                    
+                    <a href="/categories.aspx" class="rc-f link">View all reference sources<i class="fa fa-angle-right"></i></a>                    
+                    
+                    <div class="alpha-control-container">
+                        <span class="title">FREE REFERENCE ENTRIES</span>
+                        <div class="alpha-control clearfix">
+                            
+<div class="alpha-control clearfix">
+    <ul>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=A"><span>A</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=B"><span>B</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=C"><span>C</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=D"><span>D</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=E"><span>E</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=F"><span>F</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=G"><span>G</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=H"><span>H</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=I"><span>I</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=J"><span>J</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=K"><span>K</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=L"><span>L</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=M"><span>M</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=N"><span>N</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=O"><span>O</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=P"><span>P</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=Q"><span>Q</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=R"><span>R</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=S"><span>S</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=T"><span>T</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=U"><span>U</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=V"><span>V</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=W"><span>W</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=X"><span>X</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=Y"><span>Y</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=Z"><span>Z</span></a></li>
+        
+        <li><a href="/browse.aspx?pageNumber=1&amp;group=0"><span>#</span></a></li>
+    </ul>
+</div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    <div class="overlay" onclick="closeOverlays();"></div>
+</header>
+
+   
+    </div>
+    <div class="print-logo">
+        <img alt="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" src="http://images.encyclopedia.com/img/logos/encyclopedia_logo.gif?20100610" title="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" />
+    </div>
+   
+    <div id="wrapper">       
+        <div id="shell">
+            <div id="center-container">
+                
+    <div id="topic_wrap" class="clearfix topic-wrapper">
+       
+        
+            <div class="text-ad text-ad-top">
+                
+<div class="ad google textadgoogle">
+    <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- new beta test -->
+    <ins class="adsbygoogle adslot_responsive"
+         data-ad-client="ca-pub-1767711865744298"
+         data-ad-slot="9132560719"
+         data-format="auto"         
+         ></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+                </div>
+        
+
+        <!-- Global mBox Begin -->
+        <div class="mboxDefault"></div>
+        <script type="text/javascript">mboxCreate('ENC_Topic');</script>
+        <!-- Global mBox End -->
+
+        <div class="main-section">
+           
+           
+
+            <div class="toparea"> 
+                 <h1 class="topicTitle">
+                    golf 
+                </h1>
+                <div id="expapand_breadcrumb_expanded">
+                    
+        <div class="breadcrumb">
+            
+                                    <a href="/">Home</a>
+                                
+                            <i class="fa fa-angle-right"></i>
+                    
+                                    <a href="/c/2985-sports-and-everyday-life.html">Sports and Everyday Life</a>
+                                
+                            <i class="fa fa-angle-right"></i>
+                    
+                                    <a href="/sc/107449-sports.html">Sports</a>
+                                
+                            <i class="fa fa-angle-right"></i>
+                    
+                                    <a href="/ssc/107449-sports.html">Sports</a>
+                            
+        </div>
+
+                </div> 
+            </div>
+            
+            <div class="hero-image-mobile">
+                 
+<div class="herowrap" id="heroimg">
+    
+    <a rel="nofollow" target="_blank" href="http://commons.wikimedia.org/wiki/Image:Dubai_Desert_Classic_2001.jpg"
+        onclick="OmnitureClick('Topic | Entry | ImageClick');">
+        <img alt='golf' title='golf' src="http://images.encyclopedia.com/utility/image.aspx?id=2795730&amp;imagetype=Manual&amp;height=300&amp;width=300" />
+    </a>
+                
+    <div id="hero-img-byline" class="mt4 fs80">
+        golf.
+         Wikimedia Commons (Public Domain)
+        
+    </div>
+</div>
+
+            </div>
+            
+<div id="tabcontentwrapper" class="tab1wrap">
+    
+    
+<div class="entries-menu">
+    <h3>Entries</h3>
+    <div class="flat-menu" id="entriesMenu">
+        <span class="label" onclick="entrymenutoggle(this);">
+            <span class="text label1">The Columbia Encyclopedia, 6th ed.</span>
+            <span class="text label2">Dictionary of American History</span><span class="text label3">American Eras</span><span class="text label4">The Oxford Companion to British History</span>
+            <span class="text label5">Further reading</span>
+            <i class="fa fa-angle-down"></i>
+        </span>
+        <ul class="flat-menu-flyout">
+            <li>
+                <a href="#1" onclick="TabClickOmniture();">The Columbia Encyclopedia, 6th ed.</a>
+            </li>
+            
+            <li>
+                <a href="#2" onclick="TabClickOmniture();">Dictionary of American History</a>
+            </li>
+            
+            <li>
+                <a href="#3" onclick="TabClickOmniture();">American Eras</a>
+            </li>
+            
+            <li>
+                <a href="#4" onclick="TabClickOmniture();">The Oxford Companion to British History</a>
+            </li>
+            
+            <li>
+                <a href="#5" onclick="TabClickOmniture();">Further reading</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div id="topicwrap" class="topicwraptop">
+    <div id="cellwrapper" class="fgtabsarea">
+        
+        <a class="ic ic1" name="ftab" id="A1" href="#1"
+            title='The Columbia Encyclopedia, 6th ed.' onclick="TabClickOmniture();">
+            <span>
+                The Columbia Encyclopedia,...</span></a>
+        
+        <a class="ic ic2" name="ftab" id="A2" href="#2"
+            title='Dictionary of American History' onclick="TabClickOmniture();">
+            <span>
+                Dictionary of American History
+            </span></a>
+        
+        <a class="ic ic3" name="ftab" id="A3" href="#3"
+            title='American Eras' onclick="TabClickOmniture();">
+            <span>
+                American Eras
+            </span></a>
+        
+        <a class="ic ic4" name="ftab" id="A4" href="#4"
+            title='The Oxford Companion to British History' onclick="TabClickOmniture();">
+            <span>
+                The Oxford Companion to...</span></a>
+        
+        <a class="ic ic5" name="ftab" id="A5" href="#5"
+            title="Further reading" onclick="TabClickOmniture();">
+            <span>Further reading</span></a>       
+    </div>
+</div>
+<div id="toptrimbottom" class="toptrim"></div>
+
+<script type="text/javascript">
+
+    topicPageTabs.push(new TopicTab(1, ["1E1:golf"], [true]));
+    topicPageTabs.push(new TopicTab(2, ["1G2:3401801747"], [true]));
+    topicPageTabs.push(new TopicTab(3, ["1G2:2536601766"], [true]));
+    topicPageTabs.push(new TopicTab(4, ["1O110:golf"], [true]));
+    topicPageTabs.push(new TopicTab(5, ["1O142:golf","1O999:golf","1O27:golf","1O233:golf"],
+        [true,false,false,false]));
+    
+</script>
+
+    <div class="contenttop">
+        <div id="contupper" class="ctinner">
+            
+            
+            <div id="docpart">
+                <input id="topicId" name="topicId" type="hidden" value="14268" />
+                <input id="topicPreferredName" name="topicPreferredName" type="hidden" value="golf" />
+                <input id="docId" name="docId" type="hidden" value="1G2:3468303261" />
+                <div id="populate_document_pagetools" >
+                </div>
+                <h2 id="populate_document_title">
+                </h2>
+                <div id="populate_document_byline">
+                </div>
+                <div class="showdoctext" id="documentContent1">
+                </div>
+                <div class="showdoctext" id="documentContent2">
+                </div>
+                <div class="showdoctext" id="documentContent3">
+                </div>
+                <div class="showdoctext" id="documentContent4">
+                </div>
+                <div class="showdoctext essentialshowdoctext" id="documentContent5">
+                    <div>
+                   
+                        
+<h4>
+    Facts and information from other sites</h4>
+<ul class="relatedtopics" style="list-style-type: none; margin-left: 0;">
+    <li><a target="_blank" id="HyperLinkRefHBA" rel="nofollow" onclick="OmnitureClick('Topic.resources');"
+        class="txtdn" href="http://www.highbeam.com/Search.aspx?q=golf">
+        <span class="txtdu"><strong>
+            golf</strong> at </span>
+            <span class="txtdu">HighBeam Research</span>
+            <span class="flag">Premium reference</span>
+    </a></li>
+    <li><a target="_blank" id="HyperLinkWiki" rel="nofollow" onclick="OmnitureClick('Topic.resources');"
+        href="http://en.wikipedia.org/wiki/golf"><strong>
+            golf</strong> on Wikipedia</a></li>
+</ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="loadingupper" class="ctinner">
+            <div class="loader loader-large loader-orange"></div>           
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript"><!--
+    /*<![CDATA[*//*---->*/
+    var docids = ['1E1-golf', '1G2-3401801747', '1G2-2536601766'];
+    var topicId = '14268';
+    var topicName = 'golf';
+    var topicfromsearch = 'false';
+    var mainCat = 'Sports and Everyday Life';
+    var subCat1 = 'Sports';
+    var docs = eval('[{"DocumentId":"1E1:golf","DocTitle":"golf","Publication":"The Columbia Encyclopedia, 6th ed.","DocPubDate":"7/1/2015","ProviderId":"1E1","Length":5680},{"DocumentId":"1G2:3401801747","DocTitle":"Golf","Publication":"Dictionary of American History","DocPubDate":"1/1/2003","ProviderId":"1G2","Length":5624},{"DocumentId":"1G2:2536601766","DocTitle":"Golf","Publication":"American Eras","DocPubDate":"1/1/1997","ProviderId":"1G2","Length":5409},{"DocumentId":"1O110:golf","DocTitle":"golf","Publication":"The Oxford Companion to British History","DocPubDate":"1/1/2002","ProviderId":"1O110","Length":1083},{"DocumentId":"1O142:golf","DocTitle":"golf","Publication":"World Encyclopedia","DocPubDate":"1/1/2005","ProviderId":"1O142","Length":1002},{"DocumentId":"1O999:golf","DocTitle":"golf","Publication":"The Oxford Pocket Dictionary of Current English","DocPubDate":"1/27/2009","ProviderId":"1O999","Length":466},{"DocumentId":"1O27:golf","DocTitle":"golf","Publication":"The Concise Oxford Dictionary of English Etymology","DocPubDate":"1/1/1996","ProviderId":"1O27","Length":23},{"DocumentId":"1O233:golf","DocTitle":"golf","Publication":"Oxford Dictionary of Rhymes","DocPubDate":"1/1/2007","ProviderId":"1O233","Length":348}]');
+    var topicPageNameSuffix = '';
+
+    $("#loadingupper").ajaxStart(function () {
+        $(this).show();
+    }).ajaxStop(function () {        
+        $(this).hide();
+    });
+
+    function Popup() { // this is for the related entry rating control
+        var tp = '14268';
+        var iMyWidth = (window.screen.availWidth / 2) - (348 + 10);
+        var iMyHeight = (window.screen.availHeight);
+        window.open('/RankContent.aspx?topicid=' + tp, 'rateimage', 'toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=695,height=' + iMyHeight + ',left=' + iMyWidth + ',top=0');
+    }
+
+    /*--*//*]]>*/
+</script>
+
+  
+                      
+        </div>
+      
+        <div class="sidebar">
+             
+
+<script type="text/javascript">
+    var socialMediaPageUrl = "http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fgolf.aspx";
+    var socialMediaPageName = "Topic";
+    var socialMediaFacebookUrl = "http://www.facebook.com/sharer.php?u="; //http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fgolf.aspx";
+    var socialMediaTwitterUrl = "http://twitter.com/home?status=Check out @encyclopediacom's coverage of golf at "; //http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fgolf.aspx";
+    var socialMediaRedditUrl = "http://reddit.com/submit?title=golf&amp;url="; //http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fgolf.aspx"
+    var socialMediaStrumbleUponUrl = "http://www.stumbleupon.com/submit?title=golf&amp;url="; //http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fgolf.aspx";
+    var socialMediaInstagramUrl = "https://instagram.com/encyclopediacom";
+
+    $(document).ready(function () {
+        $("#socialMediaFacebook").click(function () {
+            openwin(socialMediaFacebookUrl + window.location);
+            OmnitureClick(socialMediaPageName + ' | Tools | Facebook');
+        });
+        $("#socialMediaTwitter").click(function () {
+            openwin(socialMediaTwitterUrl + window.location);
+            OmnitureClick(socialMediaPageName + ' | Tools | Twitter');
+        });
+        $("#socialMediaReddit").click(function () {
+            openwin(socialMediaRedditUrl + window.location);
+            OmnitureClick(socialMediaPageName + ' | Tools | Reddit');
+        });
+        $("#socialMediaStrumbleUpon").click(function () {
+            openwin(socialMediaStrumbleUponUrl + window.location);
+            OmnitureClick(socialMediaPageName + ' | Tools | StumbleUpon');
+        });
+        $("#socialMediaInstagram").click(function () {
+            window.open(socialMediaInstagramUrl, '_blank');
+            OmnitureClick(socialMediaPageName + ' | Tools | Instagram');
+        });
+    });
+</script>
+<div class="clearfix">
+    <div class="trending-topic-tools">
+        
+        <a id="socialMediaFacebook" href="javascript:;"><i class="fa fa-social-fb" title="Share this article on Facebook"></i></a>
+        <a id="socialMediaTwitter" href="javascript:;"><i class="fa fa-social-twit" title="Twitter"></i></a>
+        <a id="socialMediaReddit" href="javascript:;"><i class="fa fa-social-rddt" title="Submit this article to Reddit"></i></a>
+        <a id="socialMediaStrumbleUpon" href="javascript:;"><i class="fa fa-social-su" title="Give this article a thumbs-up on StumbleUpon"></i></a>
+        <a id="socialMediaInstagram" href="javascript:;"><i class="fa fa-social-insta" title="Instagram"></i></a>
+    </div>
+</div>
+<!--/trending-topic-tools-->
+ 
+
+            <div class="imagestopicleft">
+                
+<div class="herowrap" id="heroimg">
+    
+    <a rel="nofollow" target="_blank" href="http://commons.wikimedia.org/wiki/Image:Dubai_Desert_Classic_2001.jpg"
+        onclick="OmnitureClick('Topic | Entry | ImageClick');">
+        <img alt='golf' title='golf' src="http://images.encyclopedia.com/utility/image.aspx?id=2795730&amp;imagetype=Manual&amp;height=300&amp;width=300" />
+    </a>
+                
+    <div id="hero-img-byline" class="mt4 fs80">
+        golf.
+         Wikimedia Commons (Public Domain)
+        
+    </div>
+</div>
+
+            </div>
+           
+            
+<div class="usercontrol_relatedtopics">
+    
+    <div class="related-topics">
+        <h4>
+            Related topics</h4>
+        <ul class="related-topic-link">
+            
+            <li>
+                <div>
+                     
+                            <a onclick="OmnitureClick('TopictoRelatedTopic');" href='/topic/Prestwick.aspx'
+                        class="related-topic-image no-image">
+                            <span>Image not<br />available</span></a>
+                        
+                    <a onclick="OmnitureClick('TopictoRelatedTopic');" href="/topic/Prestwick.aspx">
+                        Prestwick</a>
+                </div>
+            </li>            
+            
+            <li>
+                <div>
+                     
+                            <a onclick="OmnitureClick('TopictoRelatedTopic');" href='/topic/Jack_William_Nicklaus.aspx'
+                        class="related-topic-image no-image">
+                            <span>Image not<br />available</span></a>
+                        
+                    <a onclick="OmnitureClick('TopictoRelatedTopic');" href="/topic/Jack_William_Nicklaus.aspx">
+                        Jack William Nicklaus</a>
+                </div>
+            </li>            
+            
+            <li>
+                <div>
+                     
+                         <a onclick="OmnitureClick('TopictoRelatedTopic');" href='/topic/Tiger_Woods.aspx'
+                        class="related-topic-image">
+                        <img src="http://images.encyclopedia.com/utility/image.aspx?id=2798734&amp;imagetype=Thumb&amp;height=200&amp;width=200"
+                            alt="Tiger Woods" title="Tiger Woods" /></a>
+                        
+                    <a onclick="OmnitureClick('TopictoRelatedTopic');" href="/topic/Tiger_Woods.aspx">
+                        Tiger Woods</a>
+                </div>
+            </li>            
+            
+        </ul>       
+    </div>
+    
+  
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".related-topic-image img").each(function () {
+            if ($(this).height() > $(this).width()) {
+                $(this).addClass("portrait");
+            }
+        });
+    });
+</script>
+            <div id="populate_ad_left" class="dfp-ads">
+                
+           <div id='div-id-6017' style='width:300px; height:250px'>
+                <script type='text/javascript'>
+                  googletag.cmd.push(function() {
+                    googletag.display('div-id-6017');
+                  });
+                </script>
+                <noscript>
+                    
+<div class="housead box">
+<h4>For students and teachers</h4>
+<p>Encyclopedia.com provides students and teachers facts, information, and biographies from <strong class="orange fsi">verified, citable sources,</strong> including:</p>
+
+<img alt="Encyclopedia.com provides students and teachers facts, information, and biographies from verified, citable sources, including:" src="http://images.encyclopedia.com/img/house_ad_logos.gif?20100610" title="Encyclopedia.com provides students and teachers facts, information, and biographies from verified, citable sources, including:" />
+</div>
+                </noscript>
+           </div>
+    
+            </div>
+            
+<div id="interlinking-widget" class="trending-topics box">
+    <h3>Trending topics</h3>
+    <ul id="interlinking-widget-list">
+    
+        <li><a href="/education/">Education</a></li>
+    
+        <li><a href="/careers/">Careers</a></li>
+    
+    </ul>
+</div>
+ 
+
+
+            <div class="fbLikeBox">
+                <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fencyclopediacom&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=80"
+                    scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 300px;
+                    height: 70px;" allowtransparency="true"></iframe>
+            </div>
+            
+        </div>
+        
+        <div id="style_ad_bottom">
+            <div id="populate_ad_bottom" class="dfp-ads">
+                
+           <div id='div-id-6018' style='width:728px; height:90px'>
+                <script type='text/javascript'>
+                  googletag.cmd.push(function() {
+                    googletag.display('div-id-6018');
+                  });
+                </script>
+                <noscript>
+                    
+<div class="housead box">
+<h4>For students and teachers</h4>
+<p>Encyclopedia.com provides students and teachers facts, information, and biographies from <strong class="orange fsi">verified, citable sources,</strong> including:</p>
+
+<img alt="Encyclopedia.com provides students and teachers facts, information, and biographies from verified, citable sources, including:" src="http://images.encyclopedia.com/img/house_ad_logos.gif?20100610" title="Encyclopedia.com provides students and teachers facts, information, and biographies from verified, citable sources, including:" />
+</div>
+                </noscript>
+           </div>
+    
+            </div>           
+        </div>
+        
+    </div>
+
+    <div id="divimagecachenevershow" class="nevershow">
+        
+    </div>
+    <div>
+        
+           <div id='div-id-6005' style='width:1px; height:1px'>
+                <script type='text/javascript'>
+                  googletag.cmd.push(function() {
+                    googletag.display('div-id-6005');
+                  });
+                </script>
+                <noscript>
+                    
+<div class="housead box">
+<h4>For students and teachers</h4>
+<p>Encyclopedia.com provides students and teachers facts, information, and biographies from <strong class="orange fsi">verified, citable sources,</strong> including:</p>
+
+<img alt="Encyclopedia.com provides students and teachers facts, information, and biographies from verified, citable sources, including:" src="http://images.encyclopedia.com/img/house_ad_logos.gif?20100610" title="Encyclopedia.com provides students and teachers facts, information, and biographies from verified, citable sources, including:" />
+</div>
+                </noscript>
+           </div>
+    
+    </div>
+
+
+            </div>            
+        </div>    
+    </div>
+    
+    <div id="footer">
+       
+<footer>
+    <nav class="social">
+        <a href="https://www.facebook.com/encyclopediacom" title="Facebook" target="_blank"><i class="fa fa-social-fb"></i></a>
+        <a href="https://twitter.com/encyclopediacom" title="Twitter" target="_blank"><i class="fa fa-social-twit"></i></a>
+        <a href="https://instagram.com/encyclopediacom" title="Instagram" target="_blank"><i class="fa fa-social-insta"></i></a>
+    </nav>
+    <nav>
+        <ul>
+            <li class="first"><a href="/">Home</a></li>
+            <li><a href="/about.aspx" rel="nofollow" >About&nbsp;us</a></li>
+            <li><a href="/faq.aspx" rel="nofollow">Help</a></li>
+            <li><a href="/emailus.aspx" rel="nofollow">Site&nbsp;feedback</a></li>
+            <li><a href="/privacy.aspx"  rel="nofollow">Privacy&nbsp;policy</a></li>
+            <li><a href="/termsofservice.aspx" rel="nofollow">Terms&nbsp;and&nbsp;conditions</a></li>
+        </ul>
+    </nav>
+    <p>
+        Encyclopedia.com is operated by <a href="http://www.cengage.com" rel="nofollow">Cengage&nbsp;Learning</a>
+        <span class="copyright">&copy; Copyright 2015. All rights reserved.</span>
+     </p>  
+</footer>       
+    </div> 
+   
+    
+    <i class="fa fa-angle-up back-to-top"></i>
+
+    
+    
+<!-- SiteCatalyst code version: H.10.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript">/*<![CDATA[*//*---->*/var OmnitureSuite = 'highbeamency'; /*--*//*]]>*/</script>
+<script type="text/javascript" src="/encyclopedia.axd/omniturejs/10.aspx/"></script>
+
+<script type="text/javascript" >
+    /*<![CDATA[*//*---->*/
+    s.pageName='Topic';
+    s.channel="Topic";
+    
+    s.prop3="Sports and Everyday Life";
+    s.prop4="Sports";
+    s.prop13="false";
+    s.prop14="golf";
+    s.prop21="NoRedirectTopic";
+    s.prop15="1";
+    /*--*//*]]>*/
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://highbeamency.122.2o7.net/b/ss/highbeamency/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. -->
+
+
+    <script type="text/javascript">
+           (function () {
+               var tagjs = document.createElement("script");
+               var s = document.getElementsByTagName("script")[0];
+               tagjs.async = true;
+               tagjs.src = "//s.btstatic.com/tag.js#site=jlW4Vyo";
+               s.parentNode.insertBefore(tagjs, s);
+           } ());
+    </script>
+    <noscript>
+        <iframe src="//s.thebrighttag.com/iframe?c=jlW4Vyo" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </noscript>
+    
+    
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-566IGcrB3g3GU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-566IGcrB3g3GU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+    <!--
+    M: -853125541
+    -->
+</body>
+</html>
