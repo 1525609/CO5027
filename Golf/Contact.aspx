@@ -85,7 +85,7 @@
                     </div>     
                 </div>
             </div>
-<div id="map" style="width:1400px;height:400px;background:yellow"></div>
+<div id="map" style="width:1200px;height:400px;background:yellow"></div>
 
     <script>
       function initMap() {
