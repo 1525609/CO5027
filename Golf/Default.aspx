@@ -17,14 +17,14 @@
                             <h1></h1>
                   
                         
-                            <a href="single-post.html">More Details</a>
+                            <a href="single-post.aspx">More Details</a>
                         </div>
                       <img src="images/Celebrity-athletes.jpg" alt="" />
                     </li>
                     <li>
                         <div class="slider-caption">
                             <h1></h1>
-                         <a href="single-post.html">More Details</a>
+                         <a href="single-post.aspx">More Details</a>
     
                         
                     </div>

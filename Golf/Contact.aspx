@@ -8,7 +8,7 @@
                         <div class="col-md-12">
                             <div class="heading-content">
                                 <h2>Contact Us</h2>
-                                <span>Home / <a href="contact-us.html">Contact Us</a></span>
+                                
                             </div>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                                     <div class="row">
                                         <div class="col-md-8">  
                                             <div class="message-form">
-                                                <form action="#" method="post" class="send-message">
+                                                
                                                     <div class="row">
                                                     <div class="name col-md-4">
                                                         <input type="text" name="name" id="name" placeholder="Name" />
@@ -85,7 +85,7 @@
                     </div>     
                 </div>
             </div>
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
+<div id="map" style="width:1400px;height:400px;background:yellow"></div>
 
     <script>
       function initMap() {
